@@ -5,3 +5,4 @@ myReg=lm(V23~V59,WVSData)
 summary(myReg)
 summary(WVSData$V23)
 hist(WVSData$V23)
+#comment to test commit
